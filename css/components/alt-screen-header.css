@@ -16,6 +16,7 @@
 
 .alt-header__column:first-child {
   margin-right: auto;
+  margin-left: 5px;
 }
 
 .alt-header__column:nth-child(2) {
@@ -26,6 +27,7 @@
   margin-left: auto;
   display: flex;
   justify-content: flex-end;
+  margin-right: 15px;
 }
 
 .alt-header__column span:last-child {
